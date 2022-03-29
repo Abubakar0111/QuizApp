@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.15703125" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.14332077776799437" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.18206521739130435" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.4131184895833333" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.21913757324218752" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1793075561523438" />
+        <entry key="app/src/main/res/layout/activity_quiz_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signup2.xml" value="0.2318135579427084" />
+      </map>
+    </option>
+  </component>
+</project>
